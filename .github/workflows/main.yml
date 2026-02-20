@@ -1,0 +1,13 @@
+Set-Content -Path ".github\workflows\main.yml" -Value 'name: Email Identification Action
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 23f1002129@ds.study.iitm.ac.in
+        run: echo "Hello, world! Identification step complete."'
