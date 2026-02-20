@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "email": "23f1002129@ds.study.iitm.ac.in",
+    "version": "c3e7d890"
+  },
+  "products": [
+    { "id": "prod-c3e7d890-001", "name": "Basic Item 1", "category": "electronics", "price": 217.02, "stock": 194, "rating": 4.3 },
+    { "id": "prod-c3e7d890-002", "name": "Pro Item 2", "category": "books", "price": 129.82, "stock": 27, "rating": 3.9 },
+    { "id": "prod-c3e7d890-003", "name": "Premium Item 3", "category": "sports", "price": 383.62, "stock": 148, "rating": 2.4 },
+    { "id": "prod-c3e7d890-004", "name": "Basic Item 4", "category": "books", "price": 290.08, "stock": 121, "rating": 2.0 },
+    { "id": "prod-c3e7d890-005", "name": "Elite Item 5", "category": "home", "price": 175.80, "stock": 83, "rating": 3.2 },
+    { "id": "prod-c3e7d890-006", "name": "Premium Item 6", "category": "sports", "price": 88.95, "stock": 79, "rating": 2.6 },
+    { "id": "prod-c3e7d890-007", "name": "Basic Item 7", "category": "books", "price": 96.06, "stock": 106, "rating": 4.2 },
+    { "id": "prod-c3e7d890-008", "name": "Elite Item 8", "category": "electronics", "price": 407.93, "stock": 98, "rating": 1.1 },
+    { "id": "prod-c3e7d890-009", "name": "Pro Item 9", "category": "electronics", "price": 226.79, "stock": 194, "rating": 4.4 },
+    { "id": "prod-c3e7d890-010", "name": "Pro Item 10", "category": "electronics", "price": 280.11, "stock": 49, "rating": 1.5 },
+    { "id": "prod-c3e7d890-011", "name": "Basic Item 11", "category": "books", "price": 339.08, "stock": 143, "rating": 3.1 },
+    { "id": "prod-c3e7d890-012", "name": "Standard Item 12", "category": "sports", "price": 206.10, "stock": 137, "rating": 2.2 },
+    { "id": "prod-c3e7d890-013", "name": "Elite Item 13", "category": "home", "price": 421.69, "stock": 29, "rating": 2.9 },
+    { "id": "prod-c3e7d890-014", "name": "Pro Item 14", "category": "electronics", "price": 233.64, "stock": 174, "rating": 4.9 },
+    { "id": "prod-c3e7d890-015", "name": "Pro Item 15", "category": "sports", "price": 97.58, "stock": 14, "rating": 4.7 }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 5,
+      "inventoryValue": 180455.03
+    }
+  }
+}
