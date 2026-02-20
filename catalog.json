@@ -24,6 +24,10 @@
     "electronics": {
       "count": 5,
       "inventoryValue": 180455.03
+    },
+    "clothing": {
+      "count": 0,
+      "inventoryValue": 0.0
     }
   }
 }
