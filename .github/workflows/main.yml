@@ -1,4 +1,3 @@
-$yaml = @"
 name: Email Identification Action
 
 on:
@@ -10,9 +9,5 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: "23f1002129@ds.study.iitm.ac.in"
-        run: echo "Hello, world! Identification step complete."
-"@
-
-# This overwrites the broken file with the clean version
-Set-Content -Path ".github\workflows\main.yml" -Value $yaml
+      - name: 23f1002129@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
