@@ -21,13 +21,10 @@
     { "id": "prod-c3e7d890-015", "name": "Pro Item 15", "category": "sports", "price": 97.58, "stock": 14, "rating": 4.7 }
   ],
   "aggregations": {
-    "electronics": {
-      "count": 5,
-      "inventoryValue": 180455.03
-    },
-    "clothing": {
-      "count": 0,
-      "inventoryValue": 0.0
-    }
+    "electronics": { "count": 5, "inventoryValue": 180455.03 },
+    "books": { "count": 4, "inventoryValue": 97275.62 },
+    "sports": { "count": 4, "inventoryValue": 93404.63 },
+    "home": { "count": 2, "inventoryValue": 26820.41 },
+    "clothing": { "count": 0, "inventoryValue": 0.0 }
   }
 }
